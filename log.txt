@@ -1,0 +1,41 @@
+commit e7d5346baf1984b35c6e7261ea71b17d62adcbf5
+Author: albeney <albeney90@gmail.com>
+Date:   Tue Aug 16 17:42:30 2016 +0200
+
+    mi protafoliov0.4
+
+commit 409e8c0546a73382e662e1e981089de43d7425bb
+Author: albeney <albeney90@gmail.com>
+Date:   Tue Aug 16 17:41:17 2016 +0200
+
+    mi protafoliov0.3
+
+commit d05888666d1a7d39701183998cf99d7930958a25
+Author: albeney <albeney90@gmail.com>
+Date:   Tue Aug 16 17:39:48 2016 +0200
+
+    mi protafoliov0.3
+
+commit afbeec1aaa8da13afaa8cf80e57b42dd3a100f30
+Author: albeney <albeney90@gmail.com>
+Date:   Tue Aug 16 17:38:19 2016 +0200
+
+    mi protafoliov0.2
+
+commit 24f96b3a78a81017b3fade1133a4028b95bbcd61
+Author: albeney <albeney90@gmail.com>
+Date:   Tue Aug 16 17:37:04 2016 +0200
+
+    mi protafoliov0.1
+
+commit 19077ac5d3642077f91a5373a2179a3cb33dabca
+Author: albeney <albeney90@gmail.com>
+Date:   Tue Aug 16 17:35:09 2016 +0200
+
+    cambio,subo mi portafolio
+
+commit c97d69735245476d4931b5f0df2e5e8533db36ad
+Author: albeney <albeney90@gmail.com>
+Date:   Tue Aug 16 17:32:39 2016 +0200
+
+    la primera pag de mi portfolio

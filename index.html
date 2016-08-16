@@ -3,57 +3,37 @@
 	<title></title>
 	<style type="text/css" media="screen">
 	#container{
-		width: 98%;
-		margin: 10px auto;
-		  min-height: 400px;
-		color: #333;
-	
-		line-height: 130%;
+
+		margin-top: -1em;
+margin-left: -1em;
+width: 102%;
 	}
 
 	#top{
-	padding: .5em;
-	
+	height: 13%;
+	background-color: #rgb(63, 75, 72);
+	border-top: 1px solid gray;
+	}
+
+	#top hr{
+
+		color: #f00;
+background-color: #f00;
+height: 5px;
 	}
 
 
-
-	#leftnav{
-		float: left;
-		width: 150px;
-		margin: 0;
-		padding: 1em;
-
-		border:solid double;
-		}
-
 #content
 {
-    margin-left: 200px;
-    border-left: 1px solid gray;
-    background-image: url('img/foto2.jpg');
+
+    background-image: url('img/fondo.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
     height:500px;
-  
 
+		margin-bottom: 300px;
 }
 
-
-
-#footer
-{
-	height: 50px;
-clear: both;
-margin: 0;
-padding: .5em;
-color: #333;
-background-color: #ddd;
-border-top: 1px solid gray;
-}
-
-#leftnav p { margin: 0 0 1em 0; }
-#content h2 { margin: 0 0 .5em 0; }	
 
 
 
@@ -65,10 +45,6 @@ position:relative;
 
 }
 
-#content h1,h4{text-align: center;}
-
-
-
 
 #mylogo img{
 
@@ -78,22 +54,20 @@ position:relative;
 }
 
 
-#circle {
-   height: 100px;
-  width: 100px;
-  display: table-cell;
-  text-align: center;
-  vertical-align: middle;
-  border-radius: 50%;
-  background: #8CC657;
-    cursor:pointer;
-    
+#tipography{text-align: center;}
+
+#tipography img{
+	width:420px;
 }
 
-#menu ul {
-       list-style:none;
-       }
- #menu ul li{margin-bottom:5px;}
+#content hr{
+
+	width:35%;
+}
+
+#letra1{
+	text-align: center;
+}
 
 
 	</style>
@@ -101,34 +75,16 @@ position:relative;
 <body>
 		<div id="container">
 		<div id="top">
-	
+
 		</div>
-		<div id="leftnav">
-		  <div id="menu">
-                <ul>
-                    <li>
-                     <div id="circle">Home</div>  
-                    </li>    
-                     <li>
-                     <div id="circle">About me</div>  
-                    </li> 
-                     <li>
-                     <div id="circle">Proyects</div>  
-                    </li> 
-                     <li>
-                     <div id="circle">Contact</div>  
-                    </li>                
-                  
-                </ul>
-            </div>  
-		</div>
+
 		<div id="content">
-			<div id="mylogo"><img src="img/logo.png"/></div> 
-			  <h1>"Hello word..."</h1>
-          	 <h4>Welcome to my portfolio.</h4>
+			<div id="mylogo"><img src="img/logosinfondo.png"/></div>
+				<div id="tipography"><img src="img/tipografia.png" /></div><hr/>
+				<div id="letra1"><h1>WEB DESIGNER<h1>
 		</div>
 		<div id="footer">
-	
+
 		</div>
 		</div>
 </body>
