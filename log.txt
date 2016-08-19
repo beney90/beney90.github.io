@@ -1,3 +1,21 @@
+commit 188c8a4d3b4ff8594d50ea6ecf75d661cf6c9a19
+Author: albeney <albeney90@gmail.com>
+Date:   Wed Aug 17 04:32:44 2016 +0200
+
+    pirmera parte terminada
+
+commit d324e2092711097a0637e03b26876dae0886a2f5
+Author: albeney <albeney90@gmail.com>
+Date:   Tue Aug 16 22:10:52 2016 +0200
+
+    v2 de portfolio
+
+commit 9d1911926ca5b1bb90928c52f68e2dcb25ddf110
+Author: albeney <albeney90@gmail.com>
+Date:   Tue Aug 16 20:34:37 2016 +0200
+
+    Este es el nuevo estado de mi portafolio
+
 commit e7d5346baf1984b35c6e7261ea71b17d62adcbf5
 Author: albeney <albeney90@gmail.com>
 Date:   Tue Aug 16 17:42:30 2016 +0200

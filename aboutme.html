@@ -1,2 +1,94 @@
-<h1>ABOUT ME!<h1>
-	  
+<html>
+<head>
+	<title></title>
+<script type="text/javascript" src="js/jquery.js" ></script>
+<link href="https://fonts.googleapis.com/css?family=Bitter" rel="stylesheet">
+
+	<style type="text/css" media="screen">
+
+	#fade{
+
+		overflow: hidden;
+	   width: 100%;
+
+
+
+
+	}
+
+	#divcontent{
+	float: left;
+	width: 40%;
+	height: auto;
+	margin-top: 76px;
+
+	}
+
+#div1{
+
+	width: 44%;
+	float: left;
+}
+
+
+		#div1 img{
+
+	width:100%;
+	height:auto;
+	-webkit-filter: grayscale(100%); /* Chrome, Safari, Opera */
+     filter: grayscale(100%);
+
+
+
+		}
+
+
+h1,h2,h3,h4{
+
+	font-size:20px;
+	font-family: 'Bitter', serif;
+	letter-spacing: 0.2em;
+}
+
+
+	</style>
+</head>
+<body>
+
+
+
+			<div id="fade">
+
+			<div id="div1" style='display:none;'>	<img   src="img/drk8.png"/> </div>
+				<div id="divcontent" style='display:none;'>
+						<h1>Hi Everyone! My name's Alvaro.</h1><br/>
+							<h2>I'm a passionate person for the web developer.I've studied
+						2 years HNC</h2><br/>
+						<h3>Muy lejos, más allá de las montañas de palabras, alejados de los países de las vocales y
+							 las consonantes, viven los textos simulados.</h3><br/><br/>
+
+							<h3>  Viven aislados en casas de letras, en la costa de la semántica, un gran océano de lenguas.
+							Un riachuelo llamado Pons fluye por su pueblo y los abastece con las normas necesarias.</h3>
+			</div>
+			</div>
+
+<footer></footer>
+
+
+
+<script>
+				 $(document).ready(function(){
+
+
+					 setTimeout(function() {
+							 $("#div1").fadeIn(2000);
+							 $("#divcontent").delay(3000).fadeIn(2000);
+						 },1000);
+					 });
+
+
+    </script>
+
+
+</body>
+</html>
